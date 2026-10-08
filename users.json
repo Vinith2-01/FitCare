@@ -1,0 +1,20 @@
+[
+  {
+    "id": "usr_001",
+    "name": "Alex Morgan",
+    "email": "alex.morgan@gmail.com",
+    "password": "Password123!",
+    "goal": "Everyday Vitality & Healthy Energy",
+    "registeredAt": "2026-10-08T10:00:00.000Z",
+    "authProvider": "Google"
+  },
+  {
+    "id": "usr_002",
+    "name": "Sam Taylor",
+    "email": "sam.taylor@gmail.com",
+    "password": "FitCare2026Secure",
+    "goal": "Weight Loss & Lean Toning",
+    "registeredAt": "2026-10-08T12:30:00.000Z",
+    "authProvider": "Google"
+  }
+]
